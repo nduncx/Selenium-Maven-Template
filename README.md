@@ -22,3 +22,10 @@ mvn verify
 
 The template has an example Selenium test so you can check that the above works by checking it out and running the above commands in your terminal.
 
+sfsf
+sf
+sf
+sff
+sfs
+f
+s
