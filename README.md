@@ -21,3 +21,5 @@ To run any unit tests that test your Selenium framework you just need to ensure 
 mvn verify
 
 The template has an example Selenium test so you can check that the above works by checking it out and running the above commands in your terminal.
+
+45435
