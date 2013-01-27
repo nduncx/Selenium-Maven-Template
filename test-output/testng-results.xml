@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16484" started-at="2013-01-26T13:00:16Z" finished-at="2013-01-26T13:00:32Z">
+  <suite name="Default suite" duration-ms="18921" started-at="2013-01-27T00:08:03Z" finished-at="2013-01-27T00:08:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16484" started-at="2013-01-26T13:00:16Z" finished-at="2013-01-26T13:00:32Z">
+    <test name="Default test" duration-ms="18921" started-at="2013-01-27T00:08:03Z" finished-at="2013-01-27T00:08:22Z">
       <class name="com.lazerycode.selenium.Tests.Selenium2ExampleST">
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.lazerycode.selenium.Tests.Selenium2ExampleST@c19af16]" name="setUpTest" is-config="true" duration-ms="19" started-at="2013-01-26T14:00:16Z" finished-at="2013-01-26T14:00:16Z">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.lazerycode.selenium.Tests.Selenium2ExampleST@7df992df]" name="setUpTest" is-config="true" duration-ms="38" started-at="2013-01-27T01:08:03Z" finished-at="2013-01-27T01:08:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="googleCheeseExample()[pri:0, instance:com.lazerycode.selenium.Tests.Selenium2ExampleST@c19af16]" name="googleCheeseExample" duration-ms="16453" started-at="2013-01-26T14:00:16Z" finished-at="2013-01-26T14:00:32Z">
+        <test-method status="PASS" signature="googleCheeseExample()[pri:0, instance:com.lazerycode.selenium.Tests.Selenium2ExampleST@7df992df]" name="googleCheeseExample" duration-ms="18904" started-at="2013-01-27T01:08:03Z" finished-at="2013-01-27T01:08:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleCheeseExample -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lazerycode.selenium.Tests.Selenium2ExampleST@c19af16]" name="tearDown" is-config="true" duration-ms="0" started-at="2013-01-26T14:00:32Z" finished-at="2013-01-26T14:00:32Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lazerycode.selenium.Tests.Selenium2ExampleST@7df992df]" name="tearDown" is-config="true" duration-ms="0" started-at="2013-01-27T01:08:22Z" finished-at="2013-01-27T01:08:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
