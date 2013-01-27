@@ -22,4 +22,4 @@ mvn verify
 
 The template has an example Selenium test so you can check that the above works by checking it out and running the above commands in your terminal.
 
-45435
+test pull 5
